@@ -1,0 +1,10 @@
+person_A 24
+person_B 15
+person_C 52
+person_D 65
+person_E 55
+person_F 78
+person_G 15
+person_H 55
+person_I 34
+person_J 45
